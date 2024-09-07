@@ -1,0 +1,11 @@
+C:\Users\jsros\source\repos\Acceso a datos\bin\Debug\Acceso a datos.exe.config
+C:\Users\jsros\source\repos\Acceso a datos\bin\Debug\Acceso a datos.exe
+C:\Users\jsros\source\repos\Acceso a datos\bin\Debug\Acceso a datos.pdb
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso a datos.csproj.AssemblyReference.cache
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso_a_datos.Form1.resources
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso_a_datos.Properties.Resources.resources
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso a datos.csproj.GenerateResource.cache
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso a datos.exe
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso a datos.pdb
+C:\Users\jsros\source\repos\Acceso a datos\obj\Debug\Acceso_a_datos.Form2.resources
